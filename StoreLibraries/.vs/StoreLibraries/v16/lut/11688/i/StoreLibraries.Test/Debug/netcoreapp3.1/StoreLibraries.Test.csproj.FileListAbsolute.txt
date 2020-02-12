@@ -1,0 +1,2 @@
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\i\StoreLibraries.Test\Debug\netcoreapp3.1\StoreLibraries.Test.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\i\StoreLibraries.Test\Debug\netcoreapp3.1\StoreLibraries.Test.AssemblyInfo.cs

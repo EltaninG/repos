@@ -1,0 +1,2 @@
+[18:58:13.408 Verbose] - BuildManager - C:\Users\Greg\source\repos\StoreLibraries.Test\StoreTests.cs(32,23): error CS0246: Le nom de type ou d'espace de noms 'IEnumerable<>' est introuvable (vous manque-t-il une directive using ou une référence d'assembly ?)
+[18:58:13.408 Verbose] - BuildManager - C:\Users\Greg\source\repos\StoreLibraries.Test\StoreTests.cs(33,13): error CS0246: Le nom de type ou d'espace de noms 'List<>' est introuvable (vous manque-t-il une directive using ou une référence d'assembly ?)

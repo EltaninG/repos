@@ -1,0 +1,7 @@
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\b\StoreLibraries\Debug\netstandard2.0\StoreLibraries.deps.json
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\b\StoreLibraries\Debug\netstandard2.0\StoreLibraries.dll
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\b\StoreLibraries\Debug\netstandard2.0\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\i\StoreLibraries\Debug\netstandard2.0\StoreLibraries.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\i\StoreLibraries\Debug\netstandard2.0\StoreLibraries.AssemblyInfo.cs
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\i\StoreLibraries\Debug\netstandard2.0\StoreLibraries.csproj.CopyComplete
+C:\Users\Greg\source\repos\StoreLibraries\.vs\StoreLibraries\v16\lut\0\i\StoreLibraries\Debug\netstandard2.0\StoreLibraries.dll
