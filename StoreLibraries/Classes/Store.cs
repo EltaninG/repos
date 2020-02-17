@@ -1,10 +1,8 @@
 ﻿using StoreLibraries.Interfaces;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using Newtonsoft.Json;
 using System.Linq;
-using StoreLibraries.Exceptions;
 
 namespace StoreLibraries.Classes
 {
@@ -13,6 +11,9 @@ namespace StoreLibraries.Classes
 
         #region ° Properties °
 
+        /// <summary>
+        /// 
+        /// </summary>
         private Stocktaking Stock { get; set; }
         #endregion
 
@@ -26,7 +27,7 @@ namespace StoreLibraries.Classes
         #region ° Methods °
 
         /// <summary>
-        /// Import Stock
+        /// Import Stock from JSON
         /// </summary>
         /// <param name="catalogAsJson"></param>
         public void Import(string catalogAsJson)
@@ -54,7 +55,7 @@ namespace StoreLibraries.Classes
         /// <returns></returns>
         public double Buy(params string[] basketByNames)
         {
-            
+            if (basketByNames == null) throw new ArgumentNullException("basketByNames");
             List<Book> BasketBookList = this.Stock.CheckStock(basketByNames);
             return this.Stock.CalculatePriceAndDestock(BasketBookList);
 

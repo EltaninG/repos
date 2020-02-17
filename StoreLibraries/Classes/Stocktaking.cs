@@ -1,8 +1,6 @@
 ﻿using StoreLibraries.Exceptions;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace StoreLibraries.Classes
 {
@@ -29,7 +27,11 @@ namespace StoreLibraries.Classes
 
         #region ° Methods °
 
-        
+        /// <summary>
+        /// Calculate the Price and Destock
+        /// </summary>
+        /// <param name="basketBookList">List of desired book titles</param>
+        /// <returns>return the price</returns>
         internal double CalculatePriceAndDestock(List<Book> basketBookList)
         {
             var enumCategory = basketBookList.GroupBy(b => b.Category)
@@ -56,7 +58,11 @@ namespace StoreLibraries.Classes
             return price;
         }
 
-
+        /// <summary>
+        /// Verify if there are enough book in the stock
+        /// </summary>
+        /// <param name="basketByNames">List of desired book titles</param>
+        /// <returns>Return list of book with quantity</returns>
         internal List<Book> CheckStock(params string[] basketByNames)
         {
             var EnumBook = basketByNames.GroupBy(b => b);

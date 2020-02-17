@@ -7,8 +7,14 @@ namespace StoreLibraries.Classes
     {
         #region ° Properties °
 
+        /// <summary>
+        /// Name of the Category
+        /// </summary>
         public String Name { get; }
 
+        /// <summary>
+        /// Discount
+        /// </summary>
         public double Discount { get; }
 
         #endregion
