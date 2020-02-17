@@ -94,3 +94,4 @@ C:\Users\Greg\source\repos\StoreLibraries.Test\obj\Debug\netcoreapp3.1\StoreLibr
 C:\Users\Greg\source\repos\StoreLibraries.Test\obj\Debug\netcoreapp3.1\StoreLibraries.Test.csproj.CopyComplete
 C:\Users\Greg\source\repos\StoreLibraries.Test\obj\Debug\netcoreapp3.1\StoreLibraries.Test.dll
 C:\Users\Greg\source\repos\StoreLibraries.Test\obj\Debug\netcoreapp3.1\StoreLibraries.Test.pdb
+C:\Users\Greg\source\repos\StoreLibraries.Test\bin\Debug\netcoreapp3.1\data.json

@@ -1,8 +1,8 @@
 C:\Users\Greg\source\repos\StoreLibraries\bin\Debug\netstandard2.0\StoreLibraries.deps.json
 C:\Users\Greg\source\repos\StoreLibraries\bin\Debug\netstandard2.0\StoreLibraries.dll
 C:\Users\Greg\source\repos\StoreLibraries\bin\Debug\netstandard2.0\StoreLibraries.pdb
-C:\Users\Greg\source\repos\StoreLibraries\obj\Debug\netstandard2.0\StoreLibraries.csprojAssemblyReference.cache
 C:\Users\Greg\source\repos\StoreLibraries\obj\Debug\netstandard2.0\StoreLibraries.AssemblyInfoInputs.cache
 C:\Users\Greg\source\repos\StoreLibraries\obj\Debug\netstandard2.0\StoreLibraries.AssemblyInfo.cs
 C:\Users\Greg\source\repos\StoreLibraries\obj\Debug\netstandard2.0\StoreLibraries.dll
 C:\Users\Greg\source\repos\StoreLibraries\obj\Debug\netstandard2.0\StoreLibraries.pdb
+C:\Users\Greg\source\repos\StoreLibraries\obj\Debug\netstandard2.0\StoreLibraries.csprojAssemblyReference.cache

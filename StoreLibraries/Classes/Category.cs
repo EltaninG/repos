@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Newtonsoft.Json;
+using System;
 
 namespace StoreLibraries.Classes
 {
@@ -10,17 +7,19 @@ namespace StoreLibraries.Classes
     {
         #region ° Properties °
 
-        public String Name { get; set; }
+        public String Name { get; }
 
-        public double Discount { get; set; }
+        public double Discount { get; }
 
         #endregion
 
         #region ° CTOR °
 
-        public Category()
+        [JsonConstructor]
+        public Category(String Name, double Discount)
         {
-
+            this.Name = Name;
+            this.Discount = Discount;
         }
 
         #endregion
